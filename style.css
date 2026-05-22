@@ -1,11 +1,11 @@
-IMG {
-breedte: 50%;
+img {
+    width: 50%;
 }
-lichaam {
-tekst-align: center;
-lettertype: 'Arial';
-Achtergrond: RGB(148, 225, 255);
-kleur: RGB(139, 0, 0);
- 
+
+body {
+    text-align: center;
+    font-family: 'Arial';
+    background: rgb(148, 225, 255);
+    color: rgb(139, 0, 0);
 }
  
